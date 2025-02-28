@@ -3,7 +3,7 @@
 Follow these steps to install the extension:
 
 1. **Download the Extension**
-   - Click the big green **Code** button on top-right.
+   - Click the big green **Code** button on top-right. (Or [download here](https://github.com/pea1bee/prime-video-tobacco-warning-remover/archive/refs/heads/main.zip))
    - Select **Download ZIP** and extract the folder on your computer.
 
 2. **Enable Developer Mode in Chrome**
