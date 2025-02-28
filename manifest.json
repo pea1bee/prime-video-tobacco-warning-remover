@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Prime Video Tobacco Warning Remover",
-  "description": "Removes the tobacco warning overlay from Prime Video",
+  "description": "Removes the tobacco warning overlays from Prime Video",
   "version": "1.0",
   "permissions": [
     "declarativeNetRequest",

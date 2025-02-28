@@ -1,3 +1,8 @@
+# Prime Video tobacco warning remover
+Simple chrome extension to remove annoying tobacco warning text overlays from Prime Video video player
+
+Note: supports and works with latest Manifest V3 of chrome extensions
+
 # Installation Instructions
 
 Follow these steps to install the extension:
@@ -12,7 +17,7 @@ Follow these steps to install the extension:
    - Toggle **Developer mode** (top-right corner).
 
 3. **Install the Extension**
-   - Click **Load unpacked**.
+   - Click **Load unpacked** (top-left corner).
    - Select the extracted folder from the ZIP file.
    - The extension will be installed and activated.
 
