@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://atv-ps-eu.primevideo.com/cdp/lumina/playerChromeResources/v1",
+      "resourceTypes": ["xmlhttprequest"]
+    }
+  }
+]
